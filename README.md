@@ -26,6 +26,6 @@ ninja
 ./cppmandel
 ```
 
-How it looks:
+How it looks (sorry for 0.5MB gif):
 
 ![](https://github.com/nsf/cppmandel/blob/master/screenshots/cppmandel.gif)
